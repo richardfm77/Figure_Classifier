@@ -58,4 +58,4 @@ donde:
 **NOTA: La imagen a procesar debe contener figuras geométricas (regulares o irregulares) de colores distintos, y con fondo de color fijo. Además de que debe tener extensión _.bmp_** 
 
 ### PDF con mas detalles del proyecto
- * https://drive.google.com/file/d/1pJyAcMRbkrQlQ6HuIE65QSrejXKPPqk1/view 
+ * https://drive.google.com/file/d/1pJyAcMRbkrQlQ6HuIE65QSrejXKPPqk1/view?usp=sharing
